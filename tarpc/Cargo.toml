@@ -1,6 +1,6 @@
 [package]
 name = "tarpc-copy"
-version = "0.34.0+copy.33b0b21"
+version = "0.34.0-copy.f81ddd6"
 rust-version = "1.65.0"
 authors = [
     "Adam Wright <adam.austin.wright@gmail.com>",
