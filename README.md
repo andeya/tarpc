@@ -4,7 +4,7 @@
 [![Discord chat][discord-badge]][discord-url]
 
 [crates-badge]: https://img.shields.io/crates/v/tarpc.svg
-[crates-url]: https://crates.io/crates/tarpc
+[crates-url]: https://crates.io/crates/tarpc-copy
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: LICENSE
 [gh-actions-badge]: https://github.com/google/tarpc/workflows/Continuous%20Integration/badge.svg
@@ -22,7 +22,7 @@ tarpc is an RPC framework for rust with a focus on ease of use. Defining a
 service can be done in just a few lines of code, and most of the boilerplate of
 writing a server is taken care of for you.
 
-[Documentation](https://docs.rs/crate/tarpc/)
+[Documentation](https://docs.rs/crate/tarpc-copy/)
 
 ## What is an RPC framework?
 "RPC" stands for "Remote Procedure Call," a function call where the work of

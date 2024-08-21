@@ -21,7 +21,9 @@ futures = "0.3"
 opentelemetry = { version = "0.24.0" }
 opentelemetry-otlp = "0.17.0"
 rand = "0.8"
-tarpc = { version = "0.34", path = "../tarpc", features = ["full"] }
+tarpc = { version = "0.34", package = "tarpc-copy", path = "../tarpc", features = [
+    "full",
+] }
 tokio = { version = "1", features = ["macros", "net", "rt-multi-thread"] }
 tracing = { version = "0.1" }
 tracing-opentelemetry = "0.25.0"
