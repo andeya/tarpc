@@ -67,7 +67,7 @@ Some other features of tarpc:
 Add to your `Cargo.toml` dependencies:
 
 ```toml
-tarpc = "0.34"
+tarpc = { package = "tarpc-copy", version = "=0.34.0-copy.f81ddd6" }
 ```
 
 The `tarpc::service` attribute expands to a collection of items that form an rpc service.
